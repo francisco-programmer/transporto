@@ -2,9 +2,14 @@ import './App.css'
 import LayoutAdmin from './layouts/LayoutAdmin'
 
 
+
 function App() {
   return (
-    <LayoutAdmin />    
+    
+      <LayoutAdmin />    
+
+    
+
   );
 }
 export default App

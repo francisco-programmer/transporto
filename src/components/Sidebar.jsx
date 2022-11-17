@@ -22,7 +22,7 @@ const Sidebar = () => {
       <div>
         <ul className="px-6 mt-0">
           <li className="mb-3 text-gray-500">
-            <Link to="inicio">Inicio</Link>
+            <Link to="/">Inicio</Link>
           </li>
           <li className="mb-3 text-gray-500">
             <Link to="/preparacion">Modulos PSVE</Link>
